@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.logo {
+    width: 5%;
+    height: 4%;
+}
+
+.card-img-top {
+    width: 60%;
+    height: 200px;
+    object-fit: contain;
+}
+
+.admin_image {
+    object-fit: contain;
+}
+
+/* .profile_img {
+    height:100% ;
+    width: 100%;
+} */
+
